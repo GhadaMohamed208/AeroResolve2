@@ -1,0 +1,41 @@
+baggage_tag,booking_reference,flight_number,status,last_known_location,last_updated
+BG77821,BK1023,FL123,Delayed,Cairo Airport,2026-09-20 18:30
+BG50412,BK2045,FL210,Delivered,London Heathrow Airport - Carousel 7,2026-09-19 21:15
+BG90233,BK3078,FL305,Not Found,Cairo Airport - Sorting Hall B (last scan),2026-09-21 09:40
+BG61150,BK4012,FL450,In Transit,Istanbul Airport - Transfer Hub,2026-09-21 14:05
+BG33871,BK5533,FL512,At Airport,Cairo Airport - Baggage Service Office,2026-09-22 08:20
+BG18044,BK6120,FL123,Under Investigation,Cairo Airport - Central Tracing,2026-09-21 10:12
+BG45120,BK7071,FL123,Delayed,Cairo Airport,2026-09-20 19:05
+BG27750,BK6288,FL640,Under Investigation,Jeddah King Abdulaziz Airport - Central Tracing,2026-09-19 07:45
+BG13278,BK2824,FL242,Not Found,Istanbul Airport - Sorting Hall A (last scan),2026-09-18 19:00
+BG76237,BK4811,FL833,Delayed,Hurghada Airport,2026-09-19 13:45
+BG54597,BK7924,FL881,Delivered,London Heathrow Airport - Carousel 6,2026-09-19 09:30
+BG80284,BK8527,FL665,Delivered,Amman Queen Alia Airport - Carousel 1,2026-09-17 12:00
+BG40512,BK2307,FL564,Delayed,Dubai International Airport,2026-09-20 17:15
+BG80010,BK3803,FL488,Delivered,London Heathrow Airport - Carousel 4,2026-09-22 16:00
+BG45093,BK7572,FL317,Delayed,Dubai International Airport,2026-09-21 10:30
+BG44438,BK9830,FL470,Delivered,Amman Queen Alia Airport - Carousel 2,2026-09-22 08:00
+BG99192,BK3621,FL494,Delivered,Hurghada Airport - Carousel 9,2026-09-17 06:00
+BG24621,BK6573,FL564,Delivered,Amman Queen Alia Airport - Carousel 5,2026-09-17 22:00
+BG30032,BK4258,FL713,Delivered,London Heathrow Airport - Carousel 4,2026-09-15 17:30
+BG21226,BK2290,FL231,Delayed,Paris Charles de Gaulle Airport,2026-09-17 14:45
+BG50857,BK4295,FL629,In Transit,Sharm El Sheikh Airport - Transfer Hub,2026-09-22 08:30
+BG10942,BK4608,FL169,Delivered,Cairo Airport - Carousel 4,2026-09-18 14:45
+BG41850,BK8744,FL196,Delivered,Amman Queen Alia Airport - Carousel 8,2026-09-19 19:45
+BG17944,BK2612,FL354,Delivered,Jeddah King Abdulaziz Airport - Carousel 3,2026-09-17 10:45
+BG19880,BK5092,FL151,Delayed,Paris Charles de Gaulle Airport,2026-09-16 13:15
+BG62565,BK4502,FL102,Delivered,London Heathrow Airport - Carousel 3,2026-09-22 19:45
+BG17665,BK4566,FL865,Delivered,Rome Fiumicino Airport - Carousel 1,2026-09-16 22:15
+BG18981,BK4044,FL513,Delivered,Dubai International Airport - Carousel 9,2026-09-18 08:45
+BG97782,BK4346,FL505,Delivered,Frankfurt Airport - Carousel 2,2026-09-20 20:30
+BG19602,BK2638,FL235,Delivered,Frankfurt Airport - Carousel 8,2026-09-20 15:15
+BG90173,BK5956,FL783,At Airport,Rome Fiumicino Airport - Baggage Service Office,2026-09-15 10:30
+BG45697,BK3546,FL834,Delivered,Hurghada Airport - Carousel 5,2026-09-19 22:45
+BG46265,BK7939,FL889,Delivered,Sharm El Sheikh Airport - Carousel 9,2026-09-20 20:45
+BG29536,BK2232,FL696,At Airport,Cairo Airport - Baggage Service Office,2026-09-20 07:30
+BG99399,BK4441,FL898,At Airport,Dubai International Airport - Baggage Service Office,2026-09-20 13:15
+BG53540,BK3938,FL263,Delayed,Amman Queen Alia Airport,2026-09-19 21:15
+BG39831,BK6000,FL508,Delivered,Cairo Airport - Carousel 9,2026-09-19 17:45
+BG44237,BK2889,FL139,Delivered,Hurghada Airport - Carousel 9,2026-09-20 16:45
+BG43386,BK4114,FL632,At Airport,Amman Queen Alia Airport - Baggage Service Office,2026-09-15 17:45
+BG96951,BK6143,FL782,In Transit,Rome Fiumicino Airport - Transfer Hub,2026-09-20 10:15
